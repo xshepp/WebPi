@@ -72,3 +72,11 @@ added web dashboard for admin logins for pi-hole, router, and switch.
   </html>
 
 Current errors: Router and switch logins cannot be reached, connects to Pi-hole fine.
+----
+Fixed errors, was caused due to typos in the config.
+Adjusted accordingly - 
+<a href="http://192.168.1.1" target="_blank">Router Login</a>
+<a href="http://192.168.1.10" target="_blank">Switch Login</a>
+Proceeded to add an additional button for google, and set the web interface as my homepage.
+<a href="https://google.com" target="_blank">Google</a>
+

@@ -79,4 +79,7 @@ Adjusted accordingly -
 <a href="http://192.168.1.10" target="_blank">Switch Login</a>
 Proceeded to add an additional button for google, and set the web interface as my homepage.
 <a href="https://google.com" target="_blank">Google</a>
+----
+Added "Network Logs" button, shows access and error logs with a dropdown to select each.
+Added "Return to Homepage" button when on Network Logs page, returns to main dashboard.
 

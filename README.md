@@ -82,4 +82,4 @@ Proceeded to add an additional button for google, and set the web interface as m
 ----
 Added "Network Logs" button, shows access and error logs with a dropdown to select each.
 Added "Return to Homepage" button when on Network Logs page, returns to main dashboard.
-
+Added visible status(Online/Offline)onto homepage for Pi-hole, Router, and Switch.
